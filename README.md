@@ -1,4 +1,4 @@
-# Google Maps Scraper API
+# Google Maps Scraper
 
 Este proyecto es una API que realiza scraping en Google Maps utilizando **Puppeteer** y **Express.js** para extraer información detallada sobre lugares basados en una consulta de búsqueda.
 
