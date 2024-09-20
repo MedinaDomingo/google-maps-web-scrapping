@@ -1,0 +1,16 @@
+{
+  "name": "google-maps-web-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node api.js"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "puppeteer": "^23.4.0"
+  }
+}
