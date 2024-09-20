@@ -8,7 +8,7 @@ app.get('/search', async (req, res) => {
     const query = req.query.q; 
 
     if (!query) {
-        return res.status(400).json({ error: 'No hay consult de busqueda ' });
+        return res.status(400).json({ error: 'No hay consult de busqueda' });
     }
 
     try {
