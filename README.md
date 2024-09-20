@@ -1,6 +1,6 @@
-# Google Maps Scraper
+# Gxxgle Maps Scraper
 
-Este código realiza scraping en Google Maps utilizando **Puppeteer** y **Express.js** para extraer información detallada sobre lugares basados en una consulta de búsqueda.
+Este código realiza scraping en Gxxgle Maps utilizando **Puppeteer** y **Express.js** para extraer información detallada sobre lugares basados en una consulta de búsqueda.
 
 ## Características
 
