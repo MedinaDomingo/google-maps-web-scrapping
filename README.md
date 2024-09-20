@@ -20,7 +20,7 @@ Asegúrate de tener instalado lo siguiente:
 
 ```bash
 git clone https://github.com/MedinaDomingo/google-maps-web-scrapping.git
-cd google-maps-web-scrapping
+cd google maps web scrapping
 ```
 
 2. Instala las dependencias:
